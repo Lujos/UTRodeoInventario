@@ -1,0 +1,2 @@
+rootProject.name = "UTRodeoInventario"
+include ':app'
